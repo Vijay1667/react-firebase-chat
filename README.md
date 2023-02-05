@@ -1,4 +1,7 @@
 # This is a demo of MLH Devpost Hackccelebrate Hackathon
+Technologies used:
+React, Bootstrap, Firebase
+
 
 # Getting Started with Create React App
 
