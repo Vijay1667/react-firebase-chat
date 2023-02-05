@@ -7,13 +7,13 @@ import { getFirestore } from "firebase/firestore";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAQPUZNVFVMWhGziaG_yg9LTuxI8Op-zgs",
+  apiKey: "See YOUR_FIREBASE_CONFIG",
   authDomain: "vijay-react-fire.firebaseapp.com",
-  databaseURL: "https://vijay-react-fire-default-rtdb.asia-southeast1.firebasedatabase.app",
+  databaseURL: "See YOUR_FIREBASE_CONFIG",
   projectId: "vijay-react-fire",
   storageBucket: "vijay-react-fire.appspot.com",
-  messagingSenderId: "421298202426",
-  appId: "1:421298202426:web:16edce9e3682496eb91203"
+  messagingSenderId: "See YOUR_FIREBASE_CONFIG",
+  appId: "See YOUR_FIREBASE_CONFIG"
 };
 
 // Initialize Firebase
